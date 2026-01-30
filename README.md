@@ -16,6 +16,22 @@ I enjoy building **scalable ML pipelines**, working on **RAG-based systems**, an
 
 ---
 
+## 📈 Experience Snapshot
+
+- **Graduate Research Assistant** — University of Florida  
+  ML research, RAG systems, power-aware deep learning analysis  
+
+- **Data Engineer Intern** — Meta  
+  Large-scale data pipelines, dashboards, experimentation analysis  
+
+- **Data Engineer** — Ecolab  
+  Enterprise data pipelines, SAP integration, performance optimization  
+
+- **Specialist Programmer** — Infosys  
+  Distributed data processing, Spark migration, cloud analytics  
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 Power Profiling of Deep Learning Architectures
@@ -77,21 +93,6 @@ Power BI, Matplotlib, Seaborn, Flask, FastAPI
 
 ---
 
-## 📈 Experience Snapshot
-
-- **Graduate Research Assistant** — University of Florida  
-  ML research, RAG systems, power-aware deep learning analysis  
-
-- **Data Engineer Intern** — Meta  
-  Large-scale data pipelines, dashboards, experimentation analysis  
-
-- **Data Engineer** — Ecolab  
-  Enterprise data pipelines, SAP integration, performance optimization  
-
-- **Specialist Programmer** — Infosys  
-  Distributed data processing, Spark migration, cloud analytics  
-
----
 
 ## ✍️ Interests & Learning
 
